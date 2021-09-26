@@ -1,0 +1,3 @@
+# Troap
+My pygame project - Spaces Wars.
+Python project made just for the fun of it...
