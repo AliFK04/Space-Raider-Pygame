@@ -1,3 +1,5 @@
+#Ali's space wars pygame
+
 import pygame
 import math
 import random
@@ -93,7 +95,7 @@ over_font = pygame.font.SysFont("comicsansms.ttf", 64)
 
 
 def game_over_text():
-    over_text = font.render("GAME OVER YOU LOSE HAHAHHAHAHAHAHAHAHAHA ", True, (235, 52, 72))
+    over_text = font.render("GAME OVER YOU LOSE HAHAHAHAHAHAHAH ", True, (235, 52, 72))
     screen.blit(over_text, (50,250 ))
 
 
